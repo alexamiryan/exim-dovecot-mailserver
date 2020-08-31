@@ -1,3 +1,5 @@
+# Howto setup mailserver using Exim and Dovecot
+
 Imagine we have a domain `mail.example.com` and we want to set it up as mailserver. Point that domain to your server's IP address. For the server we will need CentOS 7.
 
 Install EPEL repo
